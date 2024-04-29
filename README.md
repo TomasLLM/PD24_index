@@ -1,4 +1,3 @@
-# PD24_index
 # Índex de pràctiques de Processadors Digitals 2024
 Index de pràctiques de l'alumne Tomàs Lloret per a l'assignatura Processadors Digitals 
 
