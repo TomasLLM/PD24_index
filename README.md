@@ -31,3 +31,6 @@ Index de pràctiques de l'alumne Tomàs Lloret per a l'assignatura Processadors 
 
 ## Pràctica 8
 * [Pràctica 8](https://github.com/TomasLLM/PDPractica8)
+
+## Projecte Final
+* [Projecte Final](https://github.com/TomasLLM/PDProjecteFinal_MiDio)
